@@ -12,7 +12,7 @@ links:
     url:          /
     external:     false
   - name:         Publications
-    url:          /
+    url:          /publications
     external:     false
   - name:         About me
     url:          /about
