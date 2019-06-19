@@ -9,6 +9,9 @@
 .light-silver {
   text-align: center
 }
+.blue {
+  color: #000000;
+}
 /* Markdown styles */
 .markdown-body a {
   text-decoration: none;
