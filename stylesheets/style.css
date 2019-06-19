@@ -9,8 +9,12 @@
 .light-silver {
   text-align: center
 }
-.blue {
-  color: #000000;
+.link.blue.hover-mid-gray.mh2.pv1.hel {
+  color: #000;
+}
+.db.pv1.link.hover-mid-gray.hel {
+
+  color: #000;
 }
 /* Markdown styles */
 .markdown-body a {
