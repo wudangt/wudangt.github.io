@@ -1,9 +1,9 @@
 ---
-title: About me
+title: Who the hell am I?
 ---
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend.
+>Hey, I'm [@wudangt](https://github.com/wudangt), **a full-stack developer**, **entrepreneur**, and **designer**. I'm currently pursuing my Ph.D at a university.
 
-Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi.
+I like representation learning, generative modeling, and deep learning. I am also interested in using information-theoretic approaches to improve upon existing deep generative models, and in its application to semi-supervised learning.
 
-Find me on [GitHub](https://github.com/muan) or [Twitter](https://twitter.com/muanchiou).
+If you are interested in knowing more about what I’ve worked on, please see my CV.
