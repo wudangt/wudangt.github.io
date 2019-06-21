@@ -1,5 +1,5 @@
 ---
-title: Hyperparameter tuning magic
+title: HYPERPARAMETER TUNING MAGIC
 date: 2019-06-20 20:06:52
 ---
 
