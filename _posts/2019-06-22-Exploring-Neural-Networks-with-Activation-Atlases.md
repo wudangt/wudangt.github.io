@@ -1,6 +1,6 @@
 ---
 title: EXPLORING NEURAL NETWORKS WITH ACTIVATION ATLASES
-date: 2019-06-20 20:06:52
+date: 2019-06-22 20:06:52
 ---
 Neural networks have become the de facto standard for image-related tasks in computing, currently being deployed in a multitude of scenarios, ranging from automatically tagging photos in your image library to autonomous driving systems. These machine-learned systems have become ubiquitous because they perform more accurately than any system humans were able to directly design without machine learning. But because essential details of these systems are learned during the automated training process, understanding how a network goes about its given task can sometimes remain a bit of a mystery.
 
