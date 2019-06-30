@@ -14,4 +14,4 @@ date: 2019-06-30 15:27:31
 
     一个黎曼测度通常表示为d(x1,x2), x1和x2都是流形上的点，通俗来说，在流形上我们利用测度来衡量点与点之间的距离，从而得到流形大致的几何结构。黎曼测度通常经过log映射把流形上的点映射到切空间上，再在切空间上通过定义的点积来计算距离。
 
-    常用的黎曼测度有Log_Euclidean测度（相关链接)[https://blog.csdn.net/whwan11/article/details/80569644]，AIRM（Affine Invariant Riemannian Metric）测度（相关链接），Bregman散度链接。
+    常用的黎曼测度有[Log_Euclidean测度](https://blog.csdn.net/whwan11/article/details/80569644)，AIRM[Affine Invariant Riemannian Metric测度]（https://blog.csdn.net/whwan11/article/details/80598068），[Bregman散度](https://blog.csdn.net/whwan11/article/details/80697574)。
