@@ -1,6 +1,6 @@
 @import "https://unpkg.com/tachyons@4.6.1/css/tachyons.min.css";
-.sans-serif {
-    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+html {
+    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 .bg-super-white { background: #f9f9f9; }
 .top-50 { top: 50% }
